@@ -1,0 +1,303 @@
+﻿//**********************************************  Valid Colors	********************************************************
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}, {ORANGE} *
+//**********************************************************************************************************************
+//                                     http://i.imgur.com/q2wb8Cu.png                                                  *
+// {NORMAL} = x01 | {DARKRED} = x02 | {PINK} = x03 | {GREEN} = x04 | {YELLOW} = x09 | {LIGHTGREEN} = x06 | {RED} = x07 *
+// {GRAY} = x08 | {BLUE} = x0B | {DARKBLUE} = x0C | {PURPLE} = x0E | {ORANGE} = x10                                    *
+//**********************************************************************************************************************
+
+"Phrases"
+{
+	"Choose Bachram"
+	{
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PURPLE}Austin Wintory | Bachram {NORMAL}seçildi!"
+	}
+	
+	"Choose GunmanTacoTruck"
+	{
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {GREEN}Dren | Gunman Taco Truck {NORMAL}seçildi!"
+	}
+	
+	"Choose EyeoftheDragon"
+	{
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PURPLE}Daniel Sadowski | Eye of the Dragon {NORMAL}seçildi!"
+	}
+	
+	"Choose Drifter"
+	{
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {YELLOW}Matt Levine | Drifter {NORMAL}seçildi!"
+	}
+	
+	"Choose Bodacious"
+	{
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {GRAY}Sam Marshall | Bodacious {NORMAL}seçildi!"
+	}
+	
+	"Choose MUDDFORCE"
+	{
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {RED}Tree Adams and Ben Bromfield | M.U.D.D. FORCE {NORMAL}seçildi!"
+	}
+	
+	"Choose NeoNoir"
+	{
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKRED}Tim Huling | Neo Noir {NORMAL}seçildi!"
+	}
+	
+	"Choose AllforDust"
+	{
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {ORANGE}Amon Tobin | All for Dust {NORMAL}seçildi!"
+	}
+
+//****************************************************   WARNING   *******************************************************
+//********************************************   NO COLORS  BELOW THIS LINE   ********************************************
+
+	"Music Menu Title"
+	{
+		"tr"		"Müzik Kitini Seç"
+	}
+
+	"Music Menu Default"
+	{
+		"tr"		"Varsayılan"
+	}
+
+	"Music Menu Assault"
+	{
+		"tr"		"Daniel Sadowski | Crimson Assault"
+	}
+
+	"Music Menu Sharpened"
+	{
+		"tr"		"Noisia | Sharpened"
+	}
+
+	"Music Menu Insurgency"
+	{
+		"tr"		"Robert Allaire | Insurgency"
+	}
+
+	"Music Menu AD8"
+	{
+		"tr"		"Sean Murray | A*D*8"
+	}
+
+	"Music Menu HighNoon"
+	{
+		"tr"		"Feed Me | High Noon"
+	}
+
+	"Music Menu HeadDemolition"
+	{
+		"tr"		"Dren | Death's Head Demolition"
+	}
+
+	"Music Menu DesertFire"
+	{
+		"tr"		"Austin Wintory | Desert Fire"
+	}
+
+	"Music Menu LNOE"
+	{
+		"tr"		"Sasha | Last Night On Earth"
+	}
+
+	"Music Menu Metal"
+	{
+		"tr"		"Skog | Metal"
+	}
+
+	"Music Menu Midnight"
+	{
+		"tr"		"Midnight Riders | Christmas"
+	}
+
+	"Music Menu IsoRhythm"
+	{
+		"tr"		"Matt Lange | IsoRhythm"
+	}
+
+	"Music Menu ForNoMankind"
+	{
+		"tr"		"Mateo Messina | For No Mankind"
+	}
+
+	"Music Menu HotlineMiami"
+	{
+		"tr"		"Various Artists | Hotline Miami"
+	}
+
+	"Music Menu TotalDomination"
+	{
+		"tr"		"Daniel Sadowski | Total Domination"
+	}
+
+	"Music Menu TheTalosPrincipal"
+	{
+		"tr"		"Damjan Mravunac | The Talos Principal"
+	}
+	
+	"Music Menu Battlepack"
+	{
+		"tr"		"Proxy | Battlepack"
+	}
+	
+	"Music Menu MOLOTOV"
+	{
+		"tr"		"Ki:Theory | MOLOTOV"
+	}
+	
+	"Music Menu UberBlastoPhone"
+	{
+		"tr"		"Troels Folmann | Uber Blasto Phone"
+	}
+	
+	"Music Menu HazardousEnvironments"
+	{
+		"tr"		"Kelly Bailey | Hazardous Environments"
+	}
+		
+	"Music Menu IIHeadshot"
+	{
+		"tr"		"Skog | II-Headshot"
+	}
+	
+	"Music Menu The8BitKit"
+	{
+		"tr"		"Daniel Sadowski | The 8-Bit Kit"
+	}
+	
+	"Music Menu IAm"
+	{
+		"tr"		"AWOLNATION | I Am"
+	}
+	
+	"Music Menu Diamonds"
+	{
+		"tr"		"Mord Fustang | Diamonds"
+	}
+	
+	"Music Menu Invasion"
+	{
+		"tr"		"Michael Bross | Invasion"
+	}
+	
+	"Music Menu LionsMouth"
+	{
+		"tr"		"Ian Hultquist | Lion's Mouth""
+	}
+	
+	"Music Menu SpongeFingerz"
+	{
+		"tr"		"New Beat Fund | Sponge Fingerz"
+	}
+	
+	"Music Menu Disgusting"
+	{
+		"tr"		"Beartooth | Disgusting"
+	}
+	
+	"Music Menu JavaHavanaFunkaloo"
+	{
+		"tr"		"Lennie Moore | Java Havana Funkaloo"
+	}
+	
+	"Music Menu MomentsCSGO"
+	{
+		"tr"		"Darude | Moments CSGO"
+	}
+	
+	"Music Menu Aggressive"
+	{
+		"tr"		"Beartooth | Aggressive"
+	}
+	
+	"Music Menu The_Good"
+	{
+		"tr"		"Blitz Kids | The Good Youth"
+	}
+	
+	"Music Menu FREE"
+	{
+		"tr"		"Hundredth | FREE"
+	}
+	
+	"Music Menu Life"
+	{
+		"tr"		"Neck Deep | Life's Not Out To Get You"
+	}
+	
+	"Music Menu Backbone"
+	{
+		"tr"		"Roam | Backbone"
+	}
+	
+	"Music Menu GLA"
+	{
+		"tr"		"Twin Atlantic | GLA"
+	}
+	
+	"Music Menu III"
+	{
+		"tr"		"Skog | III-Arena"
+	}
+	
+	"Music Menu EZ4ENCE"
+	{
+		"tr"		"The Verkkars | EZ4ENCE"
+	}
+	
+	"Music Menu TheMasterChiefCollection"
+	{
+		"tr"		"Halo | The Master Chief Collection"
+	}
+	
+	"Music Menu KingScar"
+	{
+		"tr"		"Scarlxrd | King, Scar"
+	}
+	
+	"Music Menu HalfLifeAlyx"
+	{
+		"tr"		"Half-Life: Alyx | Anti-Citizen"
+	}
+	
+	"Music Menu Bachram"
+	{
+		"tr"		"Austin Wintory | Bachram"
+	}
+	
+	"Music Menu GunmanTacoTruck"
+	{
+		"tr"		"Dren | Gunman Taco Truck"
+	}
+	
+	"Music Menu EyeoftheDragon"
+	{
+		"tr"		"Daniel Sadowski | Eye of the Dragon"
+	}
+	
+	"Music Menu Drifter"
+	{
+		"tr"		"Matt Levine | Drifter"
+	}
+	
+	"Music Menu Bodacious"
+	{
+		"tr"		"Sam Marshall | Bodacious"
+	}
+	
+	"Music Menu MUDDFORCE"
+	{
+		"tr"		"Tree Adams and Ben Bromfield | M.U.D.D. FORCE"
+	}
+	
+	"Music Menu NeoNoir"
+	{
+		"tr"		"Tim Huling | Neo Noir"
+	}
+	
+	"Music Menu AllforDust"
+	{
+		"tr"		"Amon Tobin | All for Dust"
+	}
+}

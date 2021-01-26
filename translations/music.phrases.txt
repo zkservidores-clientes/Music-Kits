@@ -1,0 +1,855 @@
+﻿//**********************************************  Valid Colors	********************************************************
+// {NORMAL}, {DARKRED}, {PINK}, {YELLOW}, {GREEN}, {LIGHTGREEN}, {RED}, {GRAY}, {BLUE}, {DARKBLUE}, {PURPLE}, {ORANGE} *
+//**********************************************************************************************************************
+//                                     http://i.imgur.com/q2wb8Cu.png                                                  *
+// {NORMAL} = x01 | {DARKRED} = x02 | {PINK} = x03 | {GREEN} = x04 | {YELLOW} = x09 | {LIGHTGREEN} = x06 | {RED} = x07 *
+// {GRAY} = x08 | {BLUE} = x0B | {DARKBLUE} = x0C | {PURPLE} = x0E | {ORANGE} = x10                                    *
+//**********************************************************************************************************************
+
+"Phrases"
+{
+	"Spawn Message"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {GREEN}輸入: {RED}!music {GREEN}開啟音樂包選單並選擇你想聽的音樂!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {GREEN}Type: {RED}!music {GREEN}to open the menu and choose music you want!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {GREEN}Digite: {RED}!music {GREEN}para abrir o menu e escolher sua música de destaque!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {GREEN}输入: {RED}!music {GREEN}开启音乐盒菜单并选择你想听的音乐!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {GREEN}Komut: {RED}!music {GREEN}menüyü açmak ve istediğiniz müziği seçmek için!"
+	}
+
+	"Choose Default"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {YELLOW}預設音樂包 {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {YELLOW}Default Music {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {YELLOW}Música Padrão {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {YELLOW}默认音乐盒 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {YELLOW}Varsayılan Müzik {NORMAL}seçildi!"
+	}
+
+	"Choose Assault"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKRED}Daniel Sadowski | Crimson Assault {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKRED}Daniel Sadowski | Crimson Assault {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKRED}Daniel Sadowski | Crimson Assault {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKRED}Daniel Sadowski | 深红突击 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKRED}Daniel Sadowski | Crimson Assault {NORMAL}seçildi!"
+	}
+
+	"Choose Sharpened"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PURPLE}Noisia | Sharpened {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PURPLE}Noisia | Sharpened {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PURPLE}Noisia | Sharpened {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PURPLE}Noisia | 尖峰时刻 {NORMAL}了!"	
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PURPLE}Noisia | Sharpened {NORMAL}seçildi!"
+	}
+
+	"Choose Insurgency"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKBLUE}Robert Allaire | Insurgency {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKBLUE}Robert Allaire | Insurgency {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKBLUE}Robert Allaire | Insurgency {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKBLUE}Robert Allaire | 叛乱 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKBLUE}Robert Allaire | Insurgency {NORMAL}seçildi!""
+	}
+
+	"Choose AD8"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PINK}Sean Murray | A*D*8 {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PINK}Sean Murray | A*D*8 {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PINK}Sean Murray | A*D*8 {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PINK}Sean Murray | A*D*8 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PINK}Sean Murray | A*D*8 {NORMAL}seçildi!"
+	}
+
+	"Choose HighNoon"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {BLUE}Feed Me | High Noon {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {BLUE}Feed Me | High Noon {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {BLUE}Feed Me | High Noon {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {BLUE}Feed Me | 如日中天 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {BLUE}Feed Me | High Noon {NORMAL}seçildi!"
+	}
+
+	"Choose HeadDemolition"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {GRAY}Dren | Death's Head Demolition {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {GRAY}Dren | Death's Head Demolition {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {GRAY}Dren | Death's Head Demolition {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {GRAY}Dren | 骷髅爆破 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {GRAY}Dren | Death's Head Demolition {NORMAL}seçildi!"
+	}
+
+	"Choose DesertFire"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {YELLOW}Austin Wintory | Desert Fire {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {YELLOW}Austin Wintory | Desert Fire {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {YELLOW}Austin Wintory | Desert Fire {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {YELLOW}Austin Wintory | 沙漠之焰 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {YELLOW}Austin Wintory | Desert Fire {NORMAL}seçildi!"
+	}
+
+	"Choose LNOE"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKRED}Sasha | Last Night On Earth {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKRED}Sasha | Last Night On Earth {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKRED}Sasha | Last Night On Earth {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKRED}Sasha | 地球末夜 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKRED}Sasha | Last Night On Earth {NORMAL}seçildi!"
+	}
+
+	"Choose Metal"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PURPLE}Skog | Metal {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PURPLE}Skog | Metal {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PURPLE}Skog | Metal {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PURPLE}Skog | 金属 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PURPLE}Skog | Metal {NORMAL}seçildi!"
+	}
+
+	"Choose Midnight"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKBLUE}Midnight Riders, All I Want for Christmas {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKBLUE}Midnight Riders, All I Want for Christmas {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKBLUE}Midnight Riders, All I Want for Christmas {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKBLUE}Midnight Riders, 圣诞之欲 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKBLUE}Midnight Riders, All I Want for Christmas {NORMAL}seçildi!"
+	}
+
+	"Choose IsoRhythm"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PINK}Matt Lange | IsoRhythm {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PINK}Matt Lange | IsoRhythm {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PINK}Matt Lange | IsoRhythm {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PINK}Matt Lange | 同型节奏 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PINK}Matt Lange | IsoRhythm {NORMAL}seçildi!"
+	}
+
+	"Choose ForNoMankind"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {BLUE}Mateo Messina | For No Mankind {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {BLUE}Mateo Messina | For No Mankind {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {BLUE}Mateo Messina | For No Mankind {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {BLUE}Mateo Messina | 无人之境 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {BLUE}Mateo Messina | For No Mankind {NORMAL}seçildi!"
+	}
+
+	"Choose HotlineMiami"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {GRAY}Various Artists | Hotline Miami {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {GRAY}Various Artists | Hotline Miami {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {GRAY}Various Artists | Hotline Miami {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {GRAY}Various Artists | 迈阿密热线 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {GRAY}Various Artists | Hotline Miami {NORMAL}seçildi!"
+	}
+
+	"Choose TotalDomination"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {YELLOW}Daniel Sadowski | Total Domination {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {YELLOW}Daniel Sadowski | Total Domination {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {YELLOW}Daniel Sadowski | Total Domination {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {YELLOW}Daniel Sadowski | 绝对统御 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {YELLOW}Daniel Sadowski | Total Domination {NORMAL}seçildi!"
+	}
+
+	"Choose TheTalosPrincipal"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKRED}Damjan Mravunac | The Talos Principal {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKRED}Damjan Mravunac | The Talos Principal {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKRED}Damjan Mravunac | The Talos Principal {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKRED}Damjan Mravunac | 塔罗斯法则 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKRED}Damjan Mravunac | The Talos Principal {NORMAL}seçildi!"
+	}
+	
+	"Choose Battlepack"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PURPLE}Proxy | Battlepack {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PURPLE}Proxy | Battlepack {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PURPLE}Proxy | Battlepack {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PURPLE}Proxy | 万夫莫敌包 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PURPLE}Proxy | Battlepack {NORMAL}seçildi!"
+	}
+	
+	"Choose MOLOTOV"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKBLUE}Ki:Theory | MOLOTOV {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKBLUE}Ki:Theory | MOLOTOV {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKBLUE}Ki:Theory | MOLOTOV {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKBLUE}Ki:Theory | 莫洛托夫烈火 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKBLUE}Ki:Theory | MOLOTOV {NORMAL}seçildi!"
+	}
+	
+	"Choose UberBlastoPhone"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PINK}Troels Folmann | Uber Blasto Phone {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PINK}Troels Folmann | Uber Blasto Phone {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PINK}Troels Folmann | Uber Blasto Phone {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PINK}Troels Folmann | 超爆话筒 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PINK}Troels Folmann | Uber Blasto Phone {NORMAL}seçildi!"
+	}
+	
+	"Choose HazardousEnvironments"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {BLUE}Kelly Bailey | Hazardous Environments {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {BLUE}Kelly Bailey | Hazardous Environments {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {BLUE}Kelly Bailey | Hazardous Environments {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {BLUE}Kelly Bailey | 有害物质环境 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {BLUE}Kelly Bailey | Hazardous Environments {NORMAL}seçildi!"
+	}
+	
+	"Choose IIHeadshot"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {GRAY}Skog | II-Headshot {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {GRAY}Skog | II-Headshot {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {GRAY}Skog | II-Headshot {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {GRAY}Skog | II-爆头 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {GRAY}Skog | II-Headshot {NORMAL}seçildi!"
+	}
+	
+	"Choose The8BitKit"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {YELLOW}Daniel Sadowski | The 8-Bit Kit {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {YELLOW}Daniel Sadowski | The 8-Bit Kit {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {YELLOW}Daniel Sadowski | The 8-Bit Kit {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {YELLOW}Daniel Sadowski | 8 位音乐盒 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {YELLOW}Daniel Sadowski | The 8-Bit Kit {NORMAL}seçildi!"
+	}
+	
+	"Choose IAm"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKRED}AWOLNATION | I Am {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKRED}AWOLNATION | I Am {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKRED}AWOLNATION | I Am {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKRED}AWOLNATION | 就是我 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKRED}AWOLNATION | I Am {NORMAL}seçildi!"
+	}
+	
+	"Choose Diamonds"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PURPLE}Mord Fustang | Diamonds {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PURPLE}Mord Fustang | Diamonds {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PURPLE}Mord Fustang | Diamonds {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PURPLE}Mord Fustang | 永恒之钻 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PURPLE}Mord Fustang | Diamonds {NORMAL}seçildi!"
+	}
+	
+	"Choose Invasion"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKBLUE}Michael Bross | Invasion {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKBLUE}Michael Bross | Invasion {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKBLUE}Michael Bross | Invasion {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKBLUE}Michael Bross | 大举入侵 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKBLUE}Michael Bross | Invasion {NORMAL}seçildi!"
+	}
+	
+	"Choose LionsMouth"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PINK}Ian Hultquist | Lion's Mouth {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PINK}Ian Hultquist | Lion's Mouth {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PINK}Ian Hultquist | Lion's Mouth {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PINK}Ian Hultquist | 雄狮之口 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PINK}Ian Hultquist | Lion's Mouth {NORMAL}seçildi!"
+	}
+	
+	"Choose SpongeFingerz"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {BLUE}New Beat Fund | Sponge Fingerz {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {BLUE}New Beat Fund | Sponge Fingerz {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {BLUE}New Beat Fund | Sponge Fingerz {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {BLUE}New Beat Fund | 海绵手指 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {BLUE}New Beat Fund | Sponge Fingerz {NORMAL}seçildi!"
+	}
+	
+	"Choose Disgusting"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {GRAY}Beartooth | Disgusting {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {GRAY}Beartooth | Disgusting{NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {GRAY}Beartooth | Disgusting{NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {GRAY}Beartooth | 令人发指 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {GRAY}Beartooth | Disgusting{NORMAL}seçildi!"
+	}
+	
+	"Choose JavaHavanaFunkaloo"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {YELLOW}Lennie Moore | Java Havana Funkaloo {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {YELLOW}Lennie Moore | Java Havana Funkaloo {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {YELLOW}Lennie Moore | Java Havana Funkaloo {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {YELLOW}Lennie Moore | 爪哇哈瓦那放克乐 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {YELLOW}Lennie Moore | Java Havana Funkaloo {NORMAL}seçildi!"
+	}
+	
+	"Choose MomentsCSGO"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKRED}Darude | Moments CSGO {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKRED}Darude | Moments CSGO {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKRED}Darude | Moments CSGO {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKRED}Darude | CSGO 精彩时刻 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKRED}Darude | Moments CSGO {NORMAL}seçildi!"
+	}
+	
+	"Choose Aggressive"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PURPLE}Beartooth | Aggressive {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PURPLE}Beartooth | Aggressive {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PURPLE}Beartooth | Aggressive {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PURPLE}Beartooth | 咄咄逼人 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PURPLE}Beartooth | Aggressive {NORMAL}seçildi!"
+	}
+	
+	"Choose The_Good"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKBLUE}Blitz Kids | The Good Youth {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKBLUE}Blitz Kids | The Good Youth {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKBLUE}Blitz Kids | The Good Youth {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKBLUE}Blitz Kids | 有为青年 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKBLUE}Blitz Kids | The Good Youth {NORMAL}seçildi!"
+	}
+	
+	"Choose FREE"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PINK}Hundredth | FREE {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PINK}Hundredth | FREE {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PINK}Hundredth | FREE {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PINK}Hundredth | 冲破藩篱 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PINK}Hundredth | FREE {NORMAL}seçildi!"
+	}
+	
+	"Choose Life"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {BLUE}Neck Deep | Life's Not Out To Get You {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {BLUE}Neck Deep | Life's Not Out To Get You {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {BLUE}Neck Deep | Life's Not Out To Get You {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {BLUE}Neck Deep | 人生何处不青山 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {BLUE}Neck Deep | Life's Not Out To Get You {NORMAL}seçildi!"
+	}
+	
+	"Choose Backbone"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {GRAY}Roam | Backbone {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {GRAY}Roam | Backbone {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {GRAY}Roam | Backbone {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {GRAY}Roam | 决心 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {GRAY}Roam | Backbone {NORMAL}seçildi!"
+	}
+	
+	"Choose GLA"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {YELLOW}Twin Atlantic | GLA {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {YELLOW}Twin Atlantic | GLA {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {YELLOW}Twin Atlantic | GLA {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {YELLOW}Twin Atlantic | GLA {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {YELLOW}Twin Atlantic | GLA {NORMAL}seçildi!"
+	}
+	
+	"Choose III"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKRED}Skog | III-Arena {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKRED}Skog | III-Arena {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKRED}Skog | III-Arena {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKRED}Skog | III-竞技场 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKRED}Skog | III-Arena {NORMAL}seçildi!"
+	}
+	
+	"Choose EZ4ENCE"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PURPLE}The Verkkars | EZ4ENCE {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PURPLE}The Verkkars | EZ4ENCE {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PURPLE}The Verkkars | EZ4ENCE {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PURPLE}The Verkkars | EZ4ENCE {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {PURPLE}The Verkkars | EZ4ENCE {NORMAL}seçildi!"
+	}
+	
+	"Choose TheMasterChiefCollection"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {ORANGE}Halo | The Master Chief Collection {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {ORANGE}Halo | The Master Chief Collection {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {ORANGE}Halo | The Master Chief Collection {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {ORANGE}Halo | 大师首席收藏 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {ORANGE}Halo | The Master Chief Collection {NORMAL}seçildi!"
+	}
+	
+	"Choose KingScar"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {BLUE}Scarlxrd | King, Scar {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {BLUE}Scarlxrd | King, Scar {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {BLUE}Scarlxrd | King, Scar {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {BLUE}Scarlxrd | 疤痕之王 {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {BLUE}Scarlxrd | King, Scar {NORMAL}seçildi!"
+	}
+	
+	"Choose HalfLifeAlyx"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {ORANGE}Half-Life: Alyx | Anti-Citizen {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {ORANGE}Half-Life: Alyx | Anti-Citizen {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {ORANGE}Half-Life: Alyx | Anti-Citizen {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {ORANGE}Half-Life: Alyx | Anti-Citizen {NORMAL}了!"
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {ORANGE}Half-Life: Alyx | Anti-Citizen {NORMAL}seçildi!"
+	}
+	
+	"Choose Bachram"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PURPLE}Austin Wintory | Bachram {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PURPLE}Austin Wintory | Bachram {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PURPLE}Austin Wintory | Bachram {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PURPLE}Austin Wintory | Bachram {NORMAL}了!"
+	}
+	
+	"Choose GunmanTacoTruck"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {GREEN}Dren | Gunman Taco Truck {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {GREEN}Dren | Gunman Taco Truck {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {GREEN}Dren | Gunman Taco Truck {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {GREEN}Dren | Gunman Taco Truck {NORMAL}了!"
+	}
+	
+	"Choose EyeoftheDragon"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {PURPLE}Daniel Sadowski | Eye of the Dragon {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {PURPLE}Daniel Sadowski | Eye of the Dragon {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {PURPLE}Daniel Sadowski | Eye of the Dragon {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {PURPLE}Daniel Sadowski | Eye of the Dragon {NORMAL}了!"
+	}
+	
+	"Choose Drifter"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {YELLOW}Matt Levine | Drifter {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {YELLOW}Matt Levine | Drifter {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {YELLOW}Matt Levine | Drifter {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {YELLOW}Matt Levine | Drifter {NORMAL}了!"
+	}
+	
+	"Choose Bodacious"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {GRAY}Sam Marshall | Bodacious {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {GRAY}Sam Marshall | Bodacious {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {GRAY}Sam Marshall | Bodacious {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {GRAY}Sam Marshall | Bodacious {NORMAL}了!"
+	}
+	
+	"Choose MUDDFORCE"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {RED}Tree Adams and Ben Bromfield | M.U.D.D. FORCE {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {RED}Tree Adams and Ben Bromfield | M.U.D.D. FORCE {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {RED}Tree Adams and Ben Bromfield | M.U.D.D. FORCE {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {RED}Tree Adams and Ben Bromfield | M.U.D.D. FORCE {NORMAL}了!"
+	}
+	
+	"Choose NeoNoir"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {DARKRED}Tim Huling | Neo Noir {NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKRED}Tim Huling | Neo Noir {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKRED}Tim Huling | Neo Noir {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKRED}Tim Huling | Neo Noir {NORMAL}了!"
+	}
+	
+	"Choose AllforDust"
+	{
+		"zho"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你現在可以在遊戲裡聽 {ORANGE}Amon Tobin | All for Dust{NORMAL}了!"
+		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {ORANGE}Amon Tobin | All for Dust {NORMAL}in game now!"
+		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {ORANGE}Amon Tobin | All for Dust {NORMAL}como destaque de jogo agora!"
+		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {ORANGE}Amon Tobin | All for Dust {NORMAL}了!"
+	}
+
+//****************************************************   WARNING   *******************************************************
+//********************************************   NO COLORS  BELOW THIS LINE   ********************************************
+
+	"Music Menu Title"
+	{
+		"zho"		"選擇你的音樂包"
+		"en"		"Choose Your Music Kit"
+		"pt"		"Escolha seu Kit de Música"
+		"chi"		"选择你的音乐盒"
+	}
+
+	"Music Menu Default"
+	{
+		"zho"		"預設音樂包"
+		"en"		"Default"
+		"pt"		"Default"
+		"chi"		"默认音乐盒"
+	}
+
+	"Music Menu Assault"
+	{
+		"zho"		"Daniel Sadowski | Crimson Assault"
+		"en"		"Daniel Sadowski | Crimson Assault"
+		"pt"		"Daniel Sadowski | Crimson Assault"
+		"chi"		"Daniel Sadowski | 深红突击"
+	}
+
+	"Music Menu Sharpened"
+	{
+		"zho"		"Noisia | Sharpened"
+		"en"		"Noisia | Sharpened"
+		"pt"		"Noisia | Sharpened"
+		"chi"		"Noisia | 尖峰时刻"
+	}
+
+	"Music Menu Insurgency"
+	{
+		"zho"		"Robert Allaire | Insurgency"
+		"en"		"Robert Allaire | Insurgency"
+		"pt"		"Robert Allaire | Insurgency"
+		"chi"		"Robert Allaire | 叛乱"
+	}
+
+	"Music Menu AD8"
+	{
+		"zho"		"Sean Murray | A*D*8"
+		"en"		"Sean Murray | A*D*8"
+		"pt"		"Sean Murray | A*D*8"
+		"chi"		"Sean Murray | A*D*8"
+	}
+
+	"Music Menu HighNoon"
+	{
+		"zho"		"Feed Me | High Noon"
+		"en"		"Feed Me | High Noon"
+		"pt"		"Feed Me | High Noon"
+		"chi"		"Feed Me | 如日中天"
+	}
+
+	"Music Menu HeadDemolition"
+	{
+		"zho"		"Dren | Death's Head Demolition"
+		"en"		"Dren | Death's Head Demolition"
+		"pt"		"Dren | Death's Head Demolition"
+		"chi"		"Dren | 骷髅爆破"
+	}
+
+	"Music Menu DesertFire"
+	{
+		"zho"		"Austin Wintory | Desert Fire"
+		"en"		"Austin Wintory | Desert Fire"
+		"pt"		"Austin Wintory | Desert Fire"
+		"chi"		"Austin Wintory | 沙漠之焰"
+	}
+
+	"Music Menu LNOE"
+	{
+		"zho"		"Sasha | Last Night On Earth"
+		"en"		"Sasha | Last Night On Earth"
+		"pt"		"Sasha | Last Night On Earth"
+		"chi"		"Sasha | 地球末夜"
+	}
+
+	"Music Menu Metal"
+	{
+		"zho"		"Skog | Metal"
+		"en"		"Skog | Metal"
+		"pt"		"Skog | Metal"
+		"chi"		"Skog | 金属"
+	}
+
+	"Music Menu Midnight"
+	{
+		"zho"		"Midnight Riders | Christmas"
+		"en"		"Midnight Riders | Christmas"
+		"pt"		"Midnight Riders | Christmas"
+		"chi"		"Midnight Riders | 圣诞之欲"
+	}
+
+	"Music Menu IsoRhythm"
+	{
+		"zho"		"Matt Lange | IsoRhythm"
+		"en"		"Matt Lange | IsoRhythm"
+		"pt"		"Matt Lange | IsoRhythm"
+		"chi"		"Matt Lange | 同型节奏"
+	}
+
+	"Music Menu ForNoMankind"
+	{
+		"zho"		"Mateo Messina | For No Mankind"
+		"en"		"Mateo Messina | For No Mankind"
+		"pt"		"Mateo Messina | For No Mankind"
+		"chi"		"Mateo Messina | 无人之境"
+	}
+
+	"Music Menu HotlineMiami"
+	{
+		"zho"		"Various Artists | Hotline Miami"
+		"en"		"Various Artists | Hotline Miami"
+		"pt"		"Various Artists | Hotline Miami"
+		"chi"		"Various Artists | 迈阿密热线"
+	}
+
+	"Music Menu TotalDomination"
+	{
+		"zho"		"Daniel Sadowski | Total Domination"
+		"en"		"Daniel Sadowski | Total Domination"
+		"pt"		"Daniel Sadowski | Total Domination"
+		"chi"		"Daniel Sadowski | 绝对统御"
+	}
+
+	"Music Menu TheTalosPrincipal"
+	{
+		"zho"		"Damjan Mravunac | The Talos Principal"
+		"en"		"Damjan Mravunac | The Talos Principal"
+		"pt"		"Damjan Mravunac | The Talos Principal"
+		"chi"		"Damjan Mravunac | 塔罗斯法则"
+	}
+	
+	"Music Menu Battlepack"
+	{
+		"zho"		"Proxy | Battlepack"
+		"en"		"Proxy | Battlepack"
+		"pt"		"Proxy | Battlepack"
+		"chi"		"Proxy | 万夫莫敌包"
+	}
+	
+	"Music Menu MOLOTOV"
+	{
+		"zho"		"Ki:Theory | MOLOTOV"
+		"en"		"Ki:Theory | MOLOTOV"
+		"pt"		"Ki:Theory | MOLOTOV"
+		"chi"		"Ki:Theory | 莫洛托夫烈火"
+	}
+	
+	"Music Menu UberBlastoPhone"
+	{
+		"zho"		"Troels Folmann | Uber Blasto Phone"
+		"en"		"Troels Folmann | Uber Blasto Phone"
+		"pt"		"Troels Folmann | Uber Blasto Phone"
+		"chi"		"Troels Folmann | 超爆话筒"
+	}
+	
+	"Music Menu HazardousEnvironments"
+	{
+		"zho"		"Kelly Bailey | Hazardous Environments"
+		"en"		"Kelly Bailey | Hazardous Environments"
+		"pt"		"Kelly Bailey | Hazardous Environments"
+		"chi"		"Kelly Bailey | 有害物质环境"
+	}
+		
+	"Music Menu IIHeadshot"
+	{
+		"zho"		"Skog | II-Headshot"
+		"en"		"Skog | II-Headshot"
+		"pt"		"Skog | II-Headshot"
+		"chi"		"Skog | II-爆头"
+	}
+	
+	"Music Menu The8BitKit"
+	{
+		"zho"		"Daniel Sadowski | The 8-Bit Kit"
+		"en"		"Daniel Sadowski | The 8-Bit Kit"
+		"pt"		"Daniel Sadowski | The 8-Bit Kit"
+		"chi"		"Daniel Sadowski | 8 位音乐盒"
+	}
+	
+	"Music Menu IAm"
+	{
+		"zho"		"AWOLNATION | I Am"
+		"en"		"AWOLNATION | I Am"
+		"pt"		"AWOLNATION | I Am"
+		"chi"		"AWOLNATION | 就是我"
+	}
+	
+	"Music Menu Diamonds"
+	{
+		"zho"		"Mord Fustang | Diamonds"
+		"en"		"Mord Fustang | Diamonds"
+		"pt"		"Mord Fustang | Diamonds"
+		"chi"		"Mord Fustang | 永恒之钻"
+	}
+	
+	"Music Menu Invasion"
+	{
+		"zho"		"Michael Bross | Invasion"
+		"en"		"Michael Bross | Invasion"
+		"pt"		"Michael Bross | Invasion"
+		"chi"		"Michael Bross | 大举入侵"
+	}
+	
+	"Music Menu LionsMouth"
+	{
+		"zho"		"Ian Hultquist | Lion's Mouth"
+		"en"		"Ian Hultquist | Lion's Mouth"
+		"pt"		"Ian Hultquist | Lion's Mouth"
+		"chi"		"Ian Hultquist | 雄狮之口"
+	}
+	
+	"Music Menu SpongeFingerz"
+	{
+		"zho"		"New Beat Fund | Sponge Fingerz"
+		"en"		"New Beat Fund | Sponge Fingerz"
+		"pt"		"New Beat Fund | Sponge Fingerz"
+		"chi"		"New Beat Fund | 海绵手指"
+	}
+	
+	"Music Menu Disgusting"
+	{
+		"zho"		"Beartooth | Disgusting"
+		"en"		"Beartooth | Disgusting"
+		"pt"		"Beartooth | Disgusting"
+		"chi"		"Beartooth | 令人发指"
+	}
+	
+	"Music Menu JavaHavanaFunkaloo"
+	{
+		"zho"		"Lennie Moore | Java Havana Funkaloo"
+		"en"		"Lennie Moore | Java Havana Funkaloo"
+		"pt"		"Lennie Moore | Java Havana Funkaloo"
+		"chi"		"Lennie Moore | 爪哇哈瓦那放克乐"
+	}
+	
+	"Music Menu MomentsCSGO"
+	{
+		"zho"		"Darude | Moments CSGO"
+		"en"		"Darude | Moments CSGO"
+		"pt"		"Darude | Moments CSGO"
+		"chi"		"Darude | CSGO 精彩时刻"
+	}
+	
+	"Music Menu Aggressive"
+	{
+		"zho"		"Beartooth | Aggressive"
+		"en"		"Beartooth | Aggressive"
+		"pt"		"Beartooth | Aggressive"
+		"chi"		"Beartooth | 咄咄逼人"
+	}
+	
+	"Music Menu The_Good"
+	{
+		"zho"		"Blitz Kids | The Good Youth"
+		"en"		"Blitz Kids | The Good Youth"
+		"pt"		"Blitz Kids | The Good Youth"
+		"chi"		"Blitz Kids | 有为青年"
+	}
+	
+	"Music Menu FREE"
+	{
+		"zho"		"Hundredth | FREE"
+		"en"		"Hundredth | FREE"
+		"pt"		"Hundredth | FREE"
+		"chi"		"Hundredth | 冲破藩篱"
+	}
+	
+	"Music Menu Life"
+	{
+		"zho"		"Neck Deep | Life's Not Out To Get You"
+		"en"		"Neck Deep | Life's Not Out To Get You"
+		"pt"		"Neck Deep | Life's Not Out To Get You"
+		"chi"		"Neck Deep | 人生何处不青山"
+	}
+	
+	"Music Menu Backbone"
+	{
+		"zho"		"Roam | Backbone"
+		"en"		"Roam | Backbone"
+		"pt"		"Roam | Backbone"
+		"chi"		"Roam | 决心"
+	}
+	
+	"Music Menu GLA"
+	{
+		"zho"		"Twin Atlantic | GLA"
+		"en"		"Twin Atlantic | GLA"
+		"pt"		"Twin Atlantic | GLA"
+		"chi"		"Twin Atlantic | GLA"
+	}
+	
+	"Music Menu III"
+	{
+		"zho"		"Skog | III-Arena"
+		"en"		"Skog | III-Arena"
+		"pt"		"Skog | III-Arena"
+		"chi"		"Skog | III-竞技场"
+	}
+	
+	"Music Menu EZ4ENCE"
+	{
+		"zho"		"The Verkkars | EZ4ENCE"
+		"en"		"The Verkkars | EZ4ENCE"
+		"pt"		"The Verkkars | EZ4ENCE"
+		"chi"		"The Verkkars | EZ4ENCE"
+	}
+	
+	"Music Menu TheMasterChiefCollection"
+	{
+		"zho"		"Halo | The Master Chief Collection"
+		"en"		"Halo | The Master Chief Collection"
+		"pt"		"Halo | The Master Chief Collection"
+		"chi"		"Halo | 大师首席收藏"
+	}
+	
+	"Music Menu KingScar"
+	{
+		"zho"		"Scarlxrd | King, Scar"
+		"en"		"Scarlxrd | King, Scar"
+		"pt"		"Scarlxrd | King, Scar"
+		"chi"		"Scarlxrd | 疤痕之王"
+	}
+	
+	"Music Menu HalfLifeAlyx"
+	{
+		"zho"		"Half-Life: Alyx | Anti-Citizen"
+		"en"		"Half-Life: Alyx | Anti-Citizen"
+		"pt"		"Half-Life: Alyx | Anti-Citizen"
+		"chi"		"Half-Life: Alyx | Anti-Citizen"
+	}
+	
+	"Music Menu Bachram"
+	{
+		"zho"		"Austin Wintory | Bachram"
+		"en"		"Austin Wintory | Bachram"
+		"pt"		"Austin Wintory | Bachram"
+		"chi"		"Austin Wintory | Bachram"
+	}
+	
+	"Music Menu GunmanTacoTruck"
+	{
+		"zho"		"Dren | Gunman Taco Truck"
+		"en"		"Dren | Gunman Taco Truck"
+		"pt"		"Dren | Gunman Taco Truck"
+		"chi"		"Dren | Gunman Taco Truck"
+	}
+	
+	"Music Menu EyeoftheDragon"
+	{
+		"zho"		"Daniel Sadowski | Eye of the Dragon"
+		"en"		"Daniel Sadowski | Eye of the Dragon"
+		"pt"		"Daniel Sadowski | Eye of the Dragon"
+		"chi"		"Daniel Sadowski | Eye of the Dragon"
+	}
+	
+	"Music Menu Drifter"
+	{
+		"zho"		"Matt Levine | Drifter"
+		"en"		"Matt Levine | Drifter"
+		"pt"		"Matt Levine | Drifter"
+		"chi"		"Matt Levine | Drifter"
+	}
+	
+	"Music Menu Bodacious"
+	{
+		"zho"		"Sam Marshall | Bodacious"
+		"en"		"Sam Marshall | Bodacious"
+		"pt"		"Sam Marshall | Bodacious"
+		"chi"		"Sam Marshall | Bodacious"
+	}
+	
+	"Music Menu MUDDFORCE"
+	{
+		"zho"		"Tree Adams and Ben Bromfield | M.U.D.D. FORCE"
+		"en"		"Tree Adams and Ben Bromfield | M.U.D.D. FORCE"
+		"pt"		"Tree Adams and Ben Bromfield | M.U.D.D. FORCE"
+		"chi"		"Tree Adams and Ben Bromfield | M.U.D.D. FORCE"
+	}
+	
+	"Music Menu NeoNoir"
+	{
+		"zho"		"Tim Huling | Neo Noir"
+		"en"		"Tim Huling | Neo Noir"
+		"pt"		"Tim Huling | Neo Noir"
+		"chi"		"Tim Huling | Neo Noir"
+	}
+	
+	"Music Menu AllforDust"
+	{
+		"zho"		"Amon Tobin | All for Dust"
+		"en"		"Amon Tobin | All for Dust"
+		"pt"		"Amon Tobin | All for Dust"
+		"chi"		"Amon Tobin | All for Dust"
+	}
+}
