@@ -494,6 +494,7 @@
 		"en"		"Noisia | Sharpened"
 		"pt"		"Noisia | Sharpened"
 		"chi"		"Noisia | 尖峰时刻"
+		"tr"		"Noisia | Sharpened"
 	}
 
 	"Music Menu Insurgency"
@@ -502,6 +503,7 @@
 		"en"		"Robert Allaire | Insurgency"
 		"pt"		"Robert Allaire | Insurgency"
 		"chi"		"Robert Allaire | 叛乱"
+		"tr"		"Robert Allaire | Insurgency"
 	}
 
 	"Music Menu AD8"
@@ -510,6 +512,7 @@
 		"en"		"Sean Murray | A*D*8"
 		"pt"		"Sean Murray | A*D*8"
 		"chi"		"Sean Murray | A*D*8"
+		"tr"		"Sean Murray | A*D*8"
 	}
 
 	"Music Menu HighNoon"
@@ -518,6 +521,7 @@
 		"en"		"Feed Me | High Noon"
 		"pt"		"Feed Me | High Noon"
 		"chi"		"Feed Me | 如日中天"
+		"tr"		"Feed Me | High Noon"
 	}
 
 	"Music Menu HeadDemolition"
@@ -526,6 +530,7 @@
 		"en"		"Dren | Death's Head Demolition"
 		"pt"		"Dren | Death's Head Demolition"
 		"chi"		"Dren | 骷髅爆破"
+		"tr"		"Dren | Death's Head Demolition"
 	}
 
 	"Music Menu DesertFire"
@@ -534,6 +539,7 @@
 		"en"		"Austin Wintory | Desert Fire"
 		"pt"		"Austin Wintory | Desert Fire"
 		"chi"		"Austin Wintory | 沙漠之焰"
+		"tr"		"Austin Wintory | Desert Fire"
 	}
 
 	"Music Menu LNOE"
@@ -726,6 +732,7 @@
 		"en"		"Blitz Kids | The Good Youth"
 		"pt"		"Blitz Kids | The Good Youth"
 		"chi"		"Blitz Kids | 有为青年"
+		"tr"		"Blitz Kids | The Good Youth"
 	}
 	
 	"Music Menu FREE"
@@ -790,6 +797,7 @@
 		"en"		"Scarlxrd | King, Scar"
 		"pt"		"Scarlxrd | King, Scar"
 		"chi"		"Scarlxrd | 疤痕之王"
+		"tr"		"Scarlxrd | King, Scar"
 	}
 	
 	"Music Menu HalfLifeAlyx"
@@ -798,6 +806,7 @@
 		"en"		"Half-Life: Alyx | Anti-Citizen"
 		"pt"		"Half-Life: Alyx | Anti-Citizen"
 		"chi"		"Half-Life: Alyx | Anti-Citizen"
+		"tr"		"Half-Life: Alyx | Anti-Citizen"
 	}
 	
 	"Music Menu Bachram"
@@ -806,6 +815,7 @@
 		"en"		"Austin Wintory | Bachram"
 		"pt"		"Austin Wintory | Bachram"
 		"chi"		"Austin Wintory | Bachram"
+		"tr"		"Austin Wintory | Bachram"
 	}
 	
 	"Music Menu GunmanTacoTruck"
@@ -814,6 +824,7 @@
 		"en"		"Dren | Gunman Taco Truck"
 		"pt"		"Dren | Gunman Taco Truck"
 		"chi"		"Dren | Gunman Taco Truck"
+		"tr"		"Dren | Gunman Taco Truck"
 	}
 	
 	"Music Menu EyeoftheDragon"
@@ -822,6 +833,7 @@
 		"en"		"Daniel Sadowski | Eye of the Dragon"
 		"pt"		"Daniel Sadowski | Eye of the Dragon"
 		"chi"		"Daniel Sadowski | Eye of the Dragon"
+		"tr"		"Daniel Sadowski | Eye of the Dragon"
 	}
 	
 	"Music Menu Drifter"
@@ -830,6 +842,7 @@
 		"en"		"Matt Levine | Drifter"
 		"pt"		"Matt Levine | Drifter"
 		"chi"		"Matt Levine | Drifter"
+		"tr"		"Matt Levine | Drifter"
 	}
 	
 	"Music Menu Bodacious"
@@ -838,6 +851,7 @@
 		"en"		"Sam Marshall | Bodacious"
 		"pt"		"Sam Marshall | Bodacious"
 		"chi"		"Sam Marshall | Bodacious"
+		"tr"		"Sam Marshall | Bodacious"
 	}
 	
 	"Music Menu MUDDFORCE"
@@ -846,6 +860,7 @@
 		"en"		"Tree Adams and Ben Bromfield | M.U.D.D. FORCE"
 		"pt"		"Tree Adams and Ben Bromfield | M.U.D.D. FORCE"
 		"chi"		"Tree Adams and Ben Bromfield | M.U.D.D. FORCE"
+		"tr"		"Tree Adams and Ben Bromfield | M.U.D.D. FORCE"
 	}
 	
 	"Music Menu NeoNoir"
@@ -854,6 +869,7 @@
 		"en"		"Tim Huling | Neo Noir"
 		"pt"		"Tim Huling | Neo Noir"
 		"chi"		"Tim Huling | Neo Noir"
+		"tr"		"Tim Huling | Neo Noir"
 	}
 	
 	"Music Menu AllforDust"
@@ -862,5 +878,6 @@
 		"en"		"Amon Tobin | All for Dust"
 		"pt"		"Amon Tobin | All for Dust"
 		"chi"		"Amon Tobin | All for Dust"
+		"tr"		"Amon Tobin | All for Dust"
 	}
 }
