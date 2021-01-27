@@ -50,7 +50,7 @@
 		"en"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}You can listen to music: {DARKBLUE}Robert Allaire | Insurgency {NORMAL}in game now!"
 		"pt"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}Você pode ouvir a música: {DARKBLUE}Robert Allaire | Insurgency {NORMAL}como destaque de jogo agora!"
 		"chi"		"{NORMAL}[{DARKRED}MUSIC{NORMAL}] {NORMAL}你现在可以在游戏里听 {DARKBLUE}Robert Allaire | 叛乱 {NORMAL}了!"
-		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKBLUE}Robert Allaire | Insurgency {NORMAL}seçildi!""
+		"tr"		"{NORMAL}[{DARKRED}MÜZİK{NORMAL}] {DARKBLUE}Robert Allaire | Insurgency {NORMAL}seçildi!"
 	}
 
 	"Choose AD8"
