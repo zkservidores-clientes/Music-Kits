@@ -548,6 +548,7 @@
 		"en"		"Sasha | Last Night On Earth"
 		"pt"		"Sasha | Last Night On Earth"
 		"chi"		"Sasha | 地球末夜"
+		"tr"		"Sasha | Last Night On Earth"
 	}
 
 	"Music Menu Metal"
@@ -556,6 +557,7 @@
 		"en"		"Skog | Metal"
 		"pt"		"Skog | Metal"
 		"chi"		"Skog | 金属"
+		"tr"		"Skog | Metal"
 	}
 
 	"Music Menu Midnight"
@@ -564,6 +566,7 @@
 		"en"		"Midnight Riders | Christmas"
 		"pt"		"Midnight Riders | Christmas"
 		"chi"		"Midnight Riders | 圣诞之欲"
+		"tr"		"Midnight Riders | Christmas"
 	}
 
 	"Music Menu IsoRhythm"
@@ -572,6 +575,7 @@
 		"en"		"Matt Lange | IsoRhythm"
 		"pt"		"Matt Lange | IsoRhythm"
 		"chi"		"Matt Lange | 同型节奏"
+		"tr"		"Matt Lange | IsoRhythm"
 	}
 
 	"Music Menu ForNoMankind"
@@ -580,6 +584,7 @@
 		"en"		"Mateo Messina | For No Mankind"
 		"pt"		"Mateo Messina | For No Mankind"
 		"chi"		"Mateo Messina | 无人之境"
+		"tr"		"Mateo Messina | For No Mankind"
 	}
 
 	"Music Menu HotlineMiami"
@@ -588,6 +593,7 @@
 		"en"		"Various Artists | Hotline Miami"
 		"pt"		"Various Artists | Hotline Miami"
 		"chi"		"Various Artists | 迈阿密热线"
+		"tr"		"Various Artists | Hotline Miami"
 	}
 
 	"Music Menu TotalDomination"
@@ -596,6 +602,7 @@
 		"en"		"Daniel Sadowski | Total Domination"
 		"pt"		"Daniel Sadowski | Total Domination"
 		"chi"		"Daniel Sadowski | 绝对统御"
+		"tr"		"Daniel Sadowski | Total Domination"
 	}
 
 	"Music Menu TheTalosPrincipal"
@@ -604,6 +611,7 @@
 		"en"		"Damjan Mravunac | The Talos Principal"
 		"pt"		"Damjan Mravunac | The Talos Principal"
 		"chi"		"Damjan Mravunac | 塔罗斯法则"
+		"tr"		"Damjan Mravunac | The Talos Principal"
 	}
 	
 	"Music Menu Battlepack"
@@ -612,6 +620,7 @@
 		"en"		"Proxy | Battlepack"
 		"pt"		"Proxy | Battlepack"
 		"chi"		"Proxy | 万夫莫敌包"
+		"tr"		"Proxy | Battlepack"
 	}
 	
 	"Music Menu MOLOTOV"
@@ -620,6 +629,7 @@
 		"en"		"Ki:Theory | MOLOTOV"
 		"pt"		"Ki:Theory | MOLOTOV"
 		"chi"		"Ki:Theory | 莫洛托夫烈火"
+		"tr"		"Ki:Theory | MOLOTOV"
 	}
 	
 	"Music Menu UberBlastoPhone"
@@ -628,6 +638,7 @@
 		"en"		"Troels Folmann | Uber Blasto Phone"
 		"pt"		"Troels Folmann | Uber Blasto Phone"
 		"chi"		"Troels Folmann | 超爆话筒"
+		"tr"		"Troels Folmann | Uber Blasto Phone"
 	}
 	
 	"Music Menu HazardousEnvironments"
@@ -636,6 +647,7 @@
 		"en"		"Kelly Bailey | Hazardous Environments"
 		"pt"		"Kelly Bailey | Hazardous Environments"
 		"chi"		"Kelly Bailey | 有害物质环境"
+		"tr"		"Kelly Bailey | Hazardous Environments"
 	}
 		
 	"Music Menu IIHeadshot"
@@ -644,6 +656,7 @@
 		"en"		"Skog | II-Headshot"
 		"pt"		"Skog | II-Headshot"
 		"chi"		"Skog | II-爆头"
+		"tr"		"Skog | II-Headshot"
 	}
 	
 	"Music Menu The8BitKit"
@@ -652,6 +665,7 @@
 		"en"		"Daniel Sadowski | The 8-Bit Kit"
 		"pt"		"Daniel Sadowski | The 8-Bit Kit"
 		"chi"		"Daniel Sadowski | 8 位音乐盒"
+		"tr"		"Daniel Sadowski | The 8-Bit Kit"
 	}
 	
 	"Music Menu IAm"
@@ -660,6 +674,7 @@
 		"en"		"AWOLNATION | I Am"
 		"pt"		"AWOLNATION | I Am"
 		"chi"		"AWOLNATION | 就是我"
+		"tr"		"AWOLNATION | I Am"
 	}
 	
 	"Music Menu Diamonds"
@@ -668,6 +683,7 @@
 		"en"		"Mord Fustang | Diamonds"
 		"pt"		"Mord Fustang | Diamonds"
 		"chi"		"Mord Fustang | 永恒之钻"
+		"tr"		"Mord Fustang | Diamonds"
 	}
 	
 	"Music Menu Invasion"
@@ -676,6 +692,7 @@
 		"en"		"Michael Bross | Invasion"
 		"pt"		"Michael Bross | Invasion"
 		"chi"		"Michael Bross | 大举入侵"
+		"tr"		"Michael Bross | Invasion"
 	}
 	
 	"Music Menu LionsMouth"
@@ -684,6 +701,7 @@
 		"en"		"Ian Hultquist | Lion's Mouth"
 		"pt"		"Ian Hultquist | Lion's Mouth"
 		"chi"		"Ian Hultquist | 雄狮之口"
+		"tr"		"Ian Hultquist | Lion's Mouth"		
 	}
 	
 	"Music Menu SpongeFingerz"
@@ -692,6 +710,7 @@
 		"en"		"New Beat Fund | Sponge Fingerz"
 		"pt"		"New Beat Fund | Sponge Fingerz"
 		"chi"		"New Beat Fund | 海绵手指"
+		"tr"		"New Beat Fund | Sponge Fingerz"
 	}
 	
 	"Music Menu Disgusting"
@@ -700,6 +719,7 @@
 		"en"		"Beartooth | Disgusting"
 		"pt"		"Beartooth | Disgusting"
 		"chi"		"Beartooth | 令人发指"
+		"tr"		"Beartooth | Disgusting"
 	}
 	
 	"Music Menu JavaHavanaFunkaloo"
@@ -708,6 +728,7 @@
 		"en"		"Lennie Moore | Java Havana Funkaloo"
 		"pt"		"Lennie Moore | Java Havana Funkaloo"
 		"chi"		"Lennie Moore | 爪哇哈瓦那放克乐"
+		"tr"		"Lennie Moore | Java Havana Funkaloo"
 	}
 	
 	"Music Menu MomentsCSGO"
@@ -716,6 +737,7 @@
 		"en"		"Darude | Moments CSGO"
 		"pt"		"Darude | Moments CSGO"
 		"chi"		"Darude | CSGO 精彩时刻"
+		"tr"		"Darude | Moments CSGO"
 	}
 	
 	"Music Menu Aggressive"
@@ -724,6 +746,7 @@
 		"en"		"Beartooth | Aggressive"
 		"pt"		"Beartooth | Aggressive"
 		"chi"		"Beartooth | 咄咄逼人"
+		"tr"		"Beartooth | Aggressive"
 	}
 	
 	"Music Menu The_Good"
@@ -741,6 +764,7 @@
 		"en"		"Hundredth | FREE"
 		"pt"		"Hundredth | FREE"
 		"chi"		"Hundredth | 冲破藩篱"
+		"tr"		"Hundredth | FREE"
 	}
 	
 	"Music Menu Life"
@@ -749,6 +773,7 @@
 		"en"		"Neck Deep | Life's Not Out To Get You"
 		"pt"		"Neck Deep | Life's Not Out To Get You"
 		"chi"		"Neck Deep | 人生何处不青山"
+		"tr"		"Neck Deep | Life's Not Out To Get You"
 	}
 	
 	"Music Menu Backbone"
@@ -757,6 +782,7 @@
 		"en"		"Roam | Backbone"
 		"pt"		"Roam | Backbone"
 		"chi"		"Roam | 决心"
+		"tr"		"Roam | Backbone"
 	}
 	
 	"Music Menu GLA"
@@ -765,6 +791,7 @@
 		"en"		"Twin Atlantic | GLA"
 		"pt"		"Twin Atlantic | GLA"
 		"chi"		"Twin Atlantic | GLA"
+		"tr"		"Twin Atlantic | GLA"
 	}
 	
 	"Music Menu III"
@@ -773,6 +800,7 @@
 		"en"		"Skog | III-Arena"
 		"pt"		"Skog | III-Arena"
 		"chi"		"Skog | III-竞技场"
+		"tr"		"Skog | III-Arena"
 	}
 	
 	"Music Menu EZ4ENCE"
@@ -781,6 +809,7 @@
 		"en"		"The Verkkars | EZ4ENCE"
 		"pt"		"The Verkkars | EZ4ENCE"
 		"chi"		"The Verkkars | EZ4ENCE"
+		"tr"		"The Verkkars | EZ4ENCE"
 	}
 	
 	"Music Menu TheMasterChiefCollection"
@@ -789,6 +818,7 @@
 		"en"		"Halo | The Master Chief Collection"
 		"pt"		"Halo | The Master Chief Collection"
 		"chi"		"Halo | 大师首席收藏"
+		"tr"		"Halo | The Master Chief Collection"
 	}
 	
 	"Music Menu KingScar"
